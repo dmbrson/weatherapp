@@ -1,0 +1,1 @@
+ C:\\UCHEBA\\weatherapp\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_en.dart C:\\UCHEBA\\weatherapp\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations_ru.dart C:\\UCHEBA\\weatherapp\\.dart_tool\\flutter_gen\\gen_l10n\\app_localizations.dart:  C:\\UCHEBA\\weatherapp\\l10n.yaml C:\\UCHEBA\\weatherapp\\lib/l10n\\app_en.arb C:\\UCHEBA\\weatherapp\\lib/l10n\\app_ru.arb
